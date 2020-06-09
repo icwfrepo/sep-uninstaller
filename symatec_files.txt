@@ -1,0 +1,27 @@
+/Library/Services/Symantec Service.service/Contents/MacOS/Symantec Service
+
+/etc/symantec
+
+/var/root/Library/Caches/com.symantec.daemon
+
+/private/var/db/com.symantec
+/private/var/db/com.symantec/Symantec.keychain
+
+/private/var/folders/kl/040bdqhs441dd1dt_99fzppw0000gp/C/com.symantec.uiagent.application
+
+/private/tmp/com.symantec.symdaemon.launches
+
+/Applications/Symantec Solutions
+
+/usr/local/bin/com.symantec.sep.SyLinkDropHelper
+
+KEXT
+om.symantec.SymXIPS
+com.symantec.internetSecurity.kext
+com.symantec.ips.kext
+com.symantec.nfm.kext
+
+KEXT Paths
+/Library/Extensions/SymIPS.kext
+/Library/Extensions/SymInternetSecurity.kext
+/Library/Extensions/SymXIPS.kext
